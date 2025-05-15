@@ -1,0 +1,1 @@
+python -u "c:\Users\Dell\Desktop\New folder\python crash course\04_files and exception\Files projects\second\2nd.py"python -u "c:\Users\Dell\Desktop\New folder\python crash course\04_files and exception\Files projects\second\2nd.py"python -u "c:\Users\Dell\Desktop\New folder\python crash course\04_files and exception\Files projects\second\2nd.py"
